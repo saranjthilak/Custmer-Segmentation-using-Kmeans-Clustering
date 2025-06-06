@@ -1,0 +1,19 @@
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning / clustering
+scikit-learn==1.5.0
+
+# Notebook environment
+jupyter==1.0.0
+
+# Excel file support (if using Excel datasets)
+openpyxl==3.1.2
+
+# Optional: to automate "elbow" detection (if used in your notebook)
+kneed==0.8.1
